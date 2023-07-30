@@ -1,0 +1,202 @@
+body{background: #34414c;
+    width: 96%;}
+     div#MEE{
+       background-color:#212930;
+       width: 105%;
+       opacity: 1;
+       text-align:right;
+       background-size: contain;
+       height:70px;
+       margin: -20px;
+     }
+    
+    div#MEinweb{
+      display: none;
+      background-color:#212930;
+      position: absolute;
+      width:180px;
+    }
+    #MEE li{
+      display: inline-block;
+      text-decoration: none;
+      text-align: center;
+    }
+    
+    div#MEout input {
+      background-color: #212930;
+      color:white;
+      padding: 16px;
+      font-size: 16px;
+      border:none;
+      cursor: pointer;
+      margin-right: 30px;
+      margin-top: 10px;
+    }
+    
+    
+    div#MEinweb a {
+      text-decoration: none;
+      color: white;
+      display: block;
+      padding: 12px 16px;
+    }
+    div#MEinweb a:hover {
+      background-color: #008B8B;
+    }
+    
+    div#MEout:hover #MEinweb{
+      display: block;
+    }
+    
+    
+    
+    
+    div#MEout2{
+      /* background-color:#212930; */
+      display: inline;
+    }
+    
+    div#MEinM{
+      display: none;
+      background-color:#212930;
+      position: absolute;
+      width:200px;
+    }
+    
+    div#MEout2 input {
+      background-color: #212930;
+      color:white;
+      padding: 16px;
+      font-size: 16px;
+      border:none;
+      cursor: pointer;
+      margin-right: 30px;
+      margin-top: 10px;
+    }
+    
+    div#MEinM a {
+      text-decoration: none;
+      color: white;
+      display: block;
+      padding: 12px 16px;
+    }
+    div#MEinM a:hover {
+      background-color: #008B8B;
+    }
+    
+    div#MEout2:hover #MEinM{
+      display: block;
+    }
+    
+    
+    
+    div#MEout3{
+      /* background-color:lightgray; */
+      display: inline;
+    }
+    
+    div#MEingame{
+      display: none;
+      background-color:#212930;
+      position: absolute;
+      width:230px;
+    }
+    
+    div#MEout3 input {
+      background-color: #212930;
+      color:white;
+      padding: 16px;
+      font-size: 16px;
+      border:none;
+      cursor: pointer;
+      margin-right: 30px;
+      margin-top: 10px;
+    }
+    
+    div#MEingame a {
+      text-decoration: none;
+      color: white;
+      display: block;
+      padding: 12px 16px;
+    }
+    div#MEingame a:hover {
+      background-color: #008B8B;
+    }
+    
+    div#MEout3:hover #MEingame{
+      display: block;
+    }
+    
+    div#MEout4{
+      /* background-color:lightgray; */
+      display: inline;
+    }
+    
+    div#MEindb{
+      display: none;
+      background-color:#212930;
+      position: absolute;
+      width:230px;
+    }
+    
+    div#MEout4 input{
+      background-color: #212930;
+      color:white;
+      padding: 16px;
+      font-size: 16px;
+      border:none;
+      cursor: pointer;
+      margin-right: 30px;
+      margin-top: 10px;
+    }
+    
+    div#MEindb a {
+      text-decoration: none;
+      color: white;
+      display: block;
+      padding: 12px 16px;
+    }
+    div#MEindb a:hover {
+      background-color: #008B8B;
+    }
+    
+    div#MEout4:hover #MEindb{
+      display: block;
+    }
+    
+    div#MEout5{
+      /* background-color:lightgray; */
+      display: inline;
+    }
+    
+    div#MEinPL{
+      display: none;
+      background-color:#212930;
+      position: absolute;
+      width:230px;
+    }
+    
+    div#MEout5 input {
+      background-color: #212930;
+      color:white;
+      padding: 16px;
+      font-size: 16px;
+      border:none;
+      cursor: pointer;
+      margin-right: 30px;
+      margin-top: 10px;
+    }
+    
+    div#MEinPL a {
+      text-decoration: none;
+      color: white;
+      display: block;
+      padding: 12px 16px;
+    }
+    div#MEinPL a:hover {
+      background-color: #008B8B;
+    }
+    
+    div#MEout5:hover #MEinPL{
+      display: block;
+    }
